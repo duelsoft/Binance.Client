@@ -2,7 +2,7 @@
 using System.Net;
 using System.Net.Http;
 
-namespace CryptoTrader.Marketplace.Binance
+namespace Binance.Client.Models.Exceptions
 {
     public class BinanceException : HttpRequestException
     {

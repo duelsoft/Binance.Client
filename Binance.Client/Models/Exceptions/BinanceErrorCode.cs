@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CryptoTrader.Marketplace.Binance
+namespace Binance.Client.Models.Exceptions
 {
     [Flags]
     public enum BinanceErrorCode
